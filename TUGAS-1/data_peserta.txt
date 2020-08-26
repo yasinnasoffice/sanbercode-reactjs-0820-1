@@ -4,4 +4,4 @@ Data Peserta Sanbercode Bootcamp ReactJS
 3. Sistem Operasi yang digunakan:windows 10
 4. Akun Gitlab: @yasinnasoffice
 5. Akun Telegram: @yasinnasoffice
-6.tambah aja
+6. Memakai git bash di dekstop malah tidak muncul nama filenya
